@@ -13,10 +13,10 @@ if [ "$MODE" != "light" ]; then
 
 else
 	declare -r \
-		color_primary="#BF4B4B" \
+		color_primary="#A524E2" \
 		color_secondary="#252636" \
 		color_terceary="#1a1b26" \
-		color_background="#16161E"
+		color_background="#1f2329"
 
 	declare -r \
 		color_fg_dark="#16161E" \
